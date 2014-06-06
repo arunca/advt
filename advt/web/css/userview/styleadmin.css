@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 12, 2014, 11:56:18 AM
+    Author     : internet1
+*/
+body{width:90%;margin:auto;min-width:600px;max-width:2000px}
+
+html {background-color:#FFFFFF;}
+#head{
+ position: absolute; background: url(../userview/images/head.jpg) ;
+ margin-top: 0px;margin-left: 120px;
+ width: 1223px;
+height: 216px;margin-top: 0px;
+left: 0;
+}
+#login{
+       position: absolute; background: url(../userview/images/login.jpg) ;
+
+      margin-top: 210px;margin-left: 1148px;
+       width: 156px;
+height: 55px;
+
+
+}
+#content{
+    position: absolute;
+float: left;
+      margin-top: 210px;margin-left: 550px;
+       width: 446px;
+height: 55px;
+    
+}
+#button{
+     margin-top: 30px;margin-left: 70px;
+       width: 120px;
+height: 25px;
+    
+}
+#data{
+    position: absolute; margin-top: 253px;margin-left: 550px;
+       width: 420px;
+height: 25px;
+    
+}
+#txtHint{
+    position: absolute; margin-top: 250px;margin-left: 450px;
+       
+    
+}
+#submit2{
+    margin-top: 30px;margin-left: 70px;
+       width: 120px;
+height: 25px;
+}
+#logout{
+      margin-top: 195px;margin-left: 1144px;
+       width: 100px;
+height: 20px;
+}
